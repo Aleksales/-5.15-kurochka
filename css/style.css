@@ -1,0 +1,37 @@
+.wrapper {
+    display: flex;
+    flex-direction: column-reverse;
+
+}
+.block {
+    width: 250px;
+    padding: 5px 10px;
+}
+
+.content {
+    margin-bottom: 5px;
+}
+
+
+.text {
+    width: 250px;
+    margin-left: 10px;
+}
+
+.input {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 5px;
+    font-size: 14px;
+    line-height: 15px;
+}
+
+.btn {
+    appearance: none;
+  border: 0;
+  border-radius: 5px;
+  background: #4676D7;
+  color: #fff;
+  padding: 8px 16px;
+  font-size: 16px;
+}
